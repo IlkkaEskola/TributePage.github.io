@@ -1,1 +1,2 @@
-# TributePage.github.io
+A simple tribute page for Hideo Kojima
+
